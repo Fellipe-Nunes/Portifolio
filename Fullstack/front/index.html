@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Sabadão!</title>
+</head>
+<body>
+    <header>
+        <h1>Cadastro de Pessoas</h1>
+    </header>
+    <div id="app">
+        <form method="POST" action="http://localhost:3000/envio" target="_blank" >
+            <input type="text" name="nome" placeholder="Digite seu nome">
+            <input type="email" name="email" placeholder="Digite seu e-mail">
+            <input type="tel" name="telefone" min="11" max="11" placeholder="Digite seu telefone">
+            <input type="text" name="endereco" placeholder="Digite seu endereço">
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+    <footer>
+        <h3>Feito com s2</h3>
+    </footer>
+</body>
+</html>
