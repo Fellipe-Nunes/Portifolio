@@ -1,0 +1,13 @@
+
+/* ## NAV  */
+
+nav {
+    margin: 35px 35px 20px 35px;
+    padding: 5px;
+    border-bottom: 1px dotted #033468;
+}
+
+nav .title {
+    flex: 1;
+    font-size: 20px;
+}

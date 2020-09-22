@@ -1,0 +1,27 @@
+/* ## HEADER  */
+/* 
+header {
+    background-color: #033468;
+    padding: 35px;
+    color: #fff;
+    
+}
+
+header .title {
+    color: #fff;
+    justify-content: start;
+    flex: 1;
+    font-size: 20px;
+    font-weight: 600;
+} */
+
+.logout {
+    cursor: pointer;
+    background-color: #Dc3345;
+    padding: 2px 5px;
+    border: thin #eee solid;
+    margin-left: 10px;
+}
+.logout:hover {
+    background-color: #af2331;
+}
