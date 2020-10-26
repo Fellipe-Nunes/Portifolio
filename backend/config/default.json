@@ -1,5 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://thais:zfe1byylBbNh8LAo@cluster0.kuyqa.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "uUJFB*^T2eG64!)%.O+?XzkW9T.!q(p~0@WvAdPvY}@hdI_TiG;&!.7e[wM7m2",
-    "githubToken": "<yoursecrectaccesstoken>"
-}
